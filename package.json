@@ -1,0 +1,16 @@
+{
+  "name": "med-star",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-telegram-bot-api": "^0.50.0",
+    "regex": "^0.1.1"
+  },
+  "description": ""
+}
