@@ -20,7 +20,7 @@ app.get('/', function(request, response) {
 });
 
 // replace the value below with the Telegram token you receive from @BotFather
-const token = '1104132630:AAH88tzpwU6wxMosFm8dDRQ0-IQ_OF02pzo';
+const token = '1104132630:AAGWf0bCt9qF4aUXVsYfd8_nxRU3XgQfM3k';
 // Create a bot that uses 'polling' to fetch new updates
 const bot = new TelegramBot(token, {polling: true});
 //*****************************************************************************************************
